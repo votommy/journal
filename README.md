@@ -1,2 +1,2 @@
 # vitepress-blog
-My blogsite powered by VuePress
+My blogsite powered by VitePress
