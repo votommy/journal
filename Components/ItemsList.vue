@@ -177,7 +177,7 @@ function handleFilterSelected(event: string | undefined) {
       font-size: 1.5rem;
     }
     .item-description {
-      color: var(--var-c-text-2);
+      color: var(--vp-c-text-2);
       margin-top: 0.25rem;
     }
     .tags {
