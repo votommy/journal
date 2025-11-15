@@ -62,8 +62,6 @@ const blogposts = ref<BlogpostObj[]>([
     link: "/blogposts/2024-networth",
     tags: ["finance"],
   },
-    tags: ["finance"],
-  },
 ])
 </script>
 
