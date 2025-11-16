@@ -59,7 +59,7 @@ aside: false
 <p>
     Now that I've explained why the Grand Seiko Spring Drive is so amazing, I want to talk about my watch in particular, and how it came to be one of my favorite watches. The SBGA469's dial is a dark blue color known as "Katsu-iro". The color was used in traditional samurai armor. It looks black most of the time, but turns blue under direct light. I've always loved navy blue. Growing up in Massachusetts, I was a fan of the Boston Red Sox and the New England Patriots, which both have a navy blue color-scheme.
     <br>
-    Since I had already fallen in love with the Spring Drive after doing my own research on the technology, I new I wanted my first big-boy watch to be a Spring Drive. So when browsing Grand Seiko watches, a few of them stood out as some of my favorites.
+    Since I had already fallen in love with the Spring Drive after doing my own research on the technology, I knew I wanted my first big-boy watch to be a Spring Drive. So when browsing Grand Seiko watches, a few of them stood out as some of my favorites.
     <br>
     The SBGA211, also known as the "Snowflake", is the most famous Spring Drive model, and arguably one of the most beautiful with its pure white dial that resembles snow on the Hida Mountains. But it's so popular, that it loses its appeal in my opinion. I wanted something unique and special to me.
     <br>
