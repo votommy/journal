@@ -78,7 +78,7 @@ aside: false
 <p>
     Grand Seiko is far from the only watch brand with an intriguing story, and I do have a handful of other watches I wish to own some day.
     <br>
-    The Omega Moonphase is definitely on that list, and the Rolex Submariner is a classic that is undeniably an icon. I also think the Cartier Santos is one of the most elegant watches ever designed.
+    The Omega Snoopy is definitely on that list, and the Rolex Submariner is a classic that is undeniably an icon. I also think the Cartier Santos is one of the most elegant watches ever designed.
     <br>
     Watches are a big deal to me, so I don't want to buy them all at the same time and lose perspective on my appreciation for them. My goal for acquiring the perfect watch collection is to take it slow, and only buy a watch to commemorate a significant occasion in my life.
     <br>
