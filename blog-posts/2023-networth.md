@@ -3,7 +3,10 @@ aside: false
 ---
 
 <script setup lang="ts">
+import { ref } from "vue";
+
 import Table from '/Components/Table.vue'
+import PrevNextButtons from '/Components/PrevNextButtons.vue'
 
 // Copy and paste from Excel. Don't change anything about the spacing
 const rawSpreadsheetValues = `Categories	January	February	March	April	May	June	July	August	September	October	November	December
@@ -22,6 +25,15 @@ Car Loan	-$13,794	-$13,454	-$13,113	-$12,773	-$12,432	-$12,091	-$11,750	-$11,408
 Net Worth	$25,714	$35,575	$38,294	$38,431	$42,380	$46,523	$50,119	$54,278	$56,611	$57,949	$63,478	$71,810
 												
 Credit Score	778	781	781	782	786	767	783	790	791	796	797	798`
+
+const prev = ref({
+    path: '/blog-posts/2022-networth',
+    title: '2022 Annual Net Worth Review'
+})
+const next = ref({
+    path: '/blog-posts/2024-networth',
+    title: '2024 Annual Net Worth Review'
+})
 </script>
 
 <h1>2023 Annual Net Worth Review</h1>
@@ -54,6 +66,8 @@ Credit Score	778	781	781	782	786	767	783	790	791	796	797	798`
 <span class="tags">
     <span class="tagPills">finance</span>
 </span>
+
+<PrevNextButtons :prev="prev" :next="next" />
 
 <style scoped>
 @import ".vitepress/theme/blog-posts.scss";
